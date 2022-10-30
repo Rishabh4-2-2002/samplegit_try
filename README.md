@@ -1,4 +1,3 @@
-#this is for git practice
-this is idk
-Interesting 
-know something
+This is for git practice for people who are new to open source contribution
+
+
